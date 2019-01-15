@@ -4,7 +4,7 @@ authors: ["CompuIves"]
 description: "There are many ways to create a sandbox on CodeSandbox, either programmatically or with a UI."
 ---
 
-## Create Wizard
+## create a template
 
 The most popular way of creating a new sandbox is the Create Wizard.
 
